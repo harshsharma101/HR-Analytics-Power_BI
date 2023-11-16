@@ -4,6 +4,9 @@ I have created a dashboard for analytics of employees in a company, this is usef
 ## Overview
 This project is a Human Resources (HR) Dashboard built using Power BI to address key requirements for effective workforce management. The dashboard provides insights into various aspects of employee engagement, attendance, sick leaves, and work-from-home trends. By leveraging the capabilities of Power BI, this tool offers a visually intuitive and interactive interface to facilitate data-driven decision-making for HR professionals and organizational leaders.
 
+![image](https://github.com/harshsharma101/HR-Analytics-Power_BI/assets/90311361/ecf35725-55d8-4ff6-a0f5-b88d1977c56d)
+
+
 ## Key Features
 1. Working Preference Analysis
 - % of Attendance over Time: Track the attendance percentage of employees over a specified period, enabling a comprehensive view of workforce engagement patterns.
