@@ -1,0 +1,5 @@
+What are the requirements of company:-
+1. Working preference of employee
+2. To observe sick leaves
+3. Attendance percentage
+4. wfh reasons
