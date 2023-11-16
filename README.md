@@ -1,5 +1,5 @@
 # HR Analytics Dashboard - Power BI
-I have created a dashboard for analytics of employees in a company, this is useful for HR department.
+I have created a dashboard for analytics of employees in a company, this is useful for the HR department.
 
 ## Overview
 This project is a Human Resources (HR) Dashboard built using Power BI to address key requirements for effective workforce management. The dashboard provides insights into various aspects of employee engagement, attendance, sick leaves, and work-from-home trends. By leveraging the capabilities of Power BI, this tool offers a visually intuitive and interactive interface to facilitate data-driven decision-making for HR professionals and organizational leaders.
