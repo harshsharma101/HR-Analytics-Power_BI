@@ -11,26 +11,25 @@ This project is a Human Resources (HR) Dashboard built using Power BI to address
 - % of Work-from-Home (WFH) over Time: Visualize the evolution of work-from-home preferences among employees, aiding in understanding the dynamics of remote work adoption.
 
 2. Attendance Management
-Total Attendance %: Gain insights into the overall attendance percentage, allowing for quick assessments of workforce engagement levels.
+- Total Attendance %: Gain insights into the overall attendance percentage, allowing for quick assessments of workforce engagement levels.
 3. Leave Management
-Total Sick Leave %: Calculate the total percentage of sick leaves, facilitating a deeper understanding of employee well-being and potential health-related concerns.
-
-Total WFH %: Understand the prevalence of remote work by analyzing the total percentage of work-from-home arrangements.
+- Total Sick Leave %: Calculate the total percentage of sick leaves, facilitating a deeper understanding of employee well-being and potential health-related concerns.
+- Total WFH %: Understand the prevalence of remote work by analyzing the total percentage of work-from-home arrangements.
 
 4. Detailed Analysis
-Reasons for WFH: Explore the reasons behind employees opting for work-from-home, providing valuable information for policy adjustments and decision-making.
-How to Use
-Download and Install Power BI:
-Ensure that you have Power BI Desktop installed on your machine. If not, download and install it from here.
+- Reasons for WFH: Explore the reasons behind employees opting for work-from-home, providing valuable information for policy adjustments and decision-making.
 
-Clone the Repository:
+## How to Use
+Download and Install Power BI:
+Ensure that you have Power BI Desktop installed on your machine. If not, download and install it from [here](https://powerbi.microsoft.com/en-us/desktop/).
+
+## Clone the Repository:
 Clone this repository to your local machine using the following command:
 
-bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone [https://github.com/your-username/your-repository.git](https://github.com/harshsharma101/HR-Analytics-Power_BI)
 Open the Power BI Project:
-Open the project file (HR_Dashboard.pbix) using Power BI Desktop.
+Open the project file (.pbix) using Power BI Desktop.
 
 Refresh Data:
 Adjust the data source connections as needed and refresh the data to reflect the latest information.
@@ -38,12 +37,11 @@ Adjust the data source connections as needed and refresh the data to reflect the
 Explore the Dashboard:
 Interact with the dashboard to gain insights into attendance trends, sick leave patterns, work-from-home preferences, and more.
 
-Contribution Guidelines
+## Contribution Guidelines
 If you would like to contribute to this project, please follow these guidelines:
 
 Fork the repository and create a new branch for your feature or bug fix.
 Ensure that your code follows best practices and is well-documented.
 Submit a pull request with a clear description of the changes and the problem they solve.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
